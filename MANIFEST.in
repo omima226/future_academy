@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include future_academy *.css
+recursive-include future_academy *.csv
+recursive-include future_academy *.html
+recursive-include future_academy *.ico
+recursive-include future_academy *.js
+recursive-include future_academy *.json
+recursive-include future_academy *.md
+recursive-include future_academy *.png
+recursive-include future_academy *.py
+recursive-include future_academy *.svg
+recursive-include future_academy *.txt
+recursive-exclude future_academy *.pyc
