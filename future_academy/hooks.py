@@ -5,7 +5,7 @@ app_title = "future academy"
 app_publisher = "omaima"
 app_description = "education app"
 app_email = "omaima@test.com"
-app_license = "MIT"
+app_license = "\'future_academy\' cearted at /home/omaima/frappe-bench/apps/future_academy"
 
 # Includes in <head>
 # ------------------
