@@ -1,7 +1,7 @@
 from . import __version__ as app_version
 
 app_name = "future_academy"
-app_title = "future academy"
+app_title = "future academy "
 app_publisher = "omaima"
 app_description = "education app"
 app_email = "omaima@test.com"
